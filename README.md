@@ -1,4 +1,4 @@
-## Controlling-Cursor-With-Eye-Movements
+## Controlling Cursor With Eye Movements
 
 The mouse-free cursor control system was developed to improve user experience in computer systems as one of the accessibility improvement products for users with mobility impairments and as an innovative interaction technique.
 
